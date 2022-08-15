@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="ISO-8859-1">
+<title>student</title>
+</head>
+<body>
+<p>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<div ng-app="studentApp" ng-controller="studentController" ng-init="">
+<h3 align="center">Access Student by ID</h3>
+<h4>app/students/{studentId}</h4>
+<div>
+Student Id : <input type="text" ng-model="studentId">
+<br><br>
+<input type="submit"  id="idField" ng-click="getStudentData(studentId)">
+<br><br>
+ Student Id : {{studentId}}
+ <br>
+<table border="width:300px" style="text-align:center">
+<th><td>Student Data</td></th>
+
+<tr><td>Student Name </td><td> {{student}}</td></tr>
+<tr><td>Student ID </td><td> {{student['User_Email']}}</td></tr>
+<tr><td>Student Mobile </td><td> {{student['last_name']}}</td></tr>
+<tr><td>Message</td><td> {{messageCallback}}</td></tr>
+</table>
+</div>
+</div>
+
+<script>
+// GET DATA based on Student Id 
+var baseUrl = "http://localhost:8080/RestHibernate-Project/app/students/";
+
+var app = angular.module("studentApp",[])
+app.controller("studentController", function($scope,$http){
+	$scope.student = null;
+	
+	$scope.getStudentData = function(studentId){
+		$http.get(baseUrl+studentId).then(function(response){
+			$scope.student = response.data;
+			$scope.messageCallback = "Student Data Fetched Successfully";
+		},
+		function(response){
+			$scope.student = null;
+			$scope.messageCallback = "Student data Not Found / ERROR";
+		});
+	}
+});
+
+</script>
+
+</p>
+
+
+
+</body>
+</html>

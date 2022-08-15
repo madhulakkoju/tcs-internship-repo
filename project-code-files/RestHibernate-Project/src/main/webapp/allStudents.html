@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>All Students</title>
+<h3 align="center">All Students</h3>
+<h4>app/students/</h4>
+</head>
+<body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<div ng-app="allStudents" ng-controller="allStudentsController" ng-init="" >
+<button  onclick="updateStudents();"> UPDATE </button>
+<table border="width:300px" style="text-align:center" >
+<tr>
+<td>Student Mail</td> 
+<td>Student Id</td>
+</tr>
+
+<tr ng-repeat="student in allStudents">
+<td>{{student}}</td>
+<td>{{student['password']}}</td>
+<td> {{student['studentId']}} </td>
+</tr>
+
+</table>
+{{messageCallback}}
+</div>
+<script>
+
+var baseUrl = "http://localhost:8080/RestHibernate-Project/app/students/";
+
+var app = angular.module("allStudents",[])
+app.controller("allStudentsController", function($scope,$http){
+	 $scope.allStudents = null;
+	 
+	 $http.get(baseUrl).then(
+				function(response){
+					$scope.allStudents = response.data;
+					$scope.messageCallback = "Students Data Fetched Successfully";
+					console.log($scope.allStudents);
+				},
+				function(response){
+					$scope.allStudents = null;
+					$scope.messageCallback = "Student data Not Found / ERROR";
+				});
+		});
+function updateStudents(){
+	 console.log("update called");
+	 location.reload(true);
+}
+</script>
+</body>
+</html>

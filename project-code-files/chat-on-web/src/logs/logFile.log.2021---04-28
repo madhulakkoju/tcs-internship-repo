@@ -1,0 +1,74 @@
+2021-04-28 18:17:05,852 DEBUG :org.jboss.resteasy.plugins.providers.FileProvider [<clinit>] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2021-04-28 18:17:05,912 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-28 18:17:05,928 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-28 18:17:23,032 DEBUG :org.jboss.resteasy.plugins.providers.FileProvider [<clinit>] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2021-04-28 18:17:23,087 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-28 18:17:23,095 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-28 18:17:38,861 DEBUG :com.backend.controllers.LoginController [service]  
+2021-04-28 18:17:38,874 DEBUG :com.backend.model.User [<init>] New User Registered : ADMIN_USER 
+2021-04-28 18:17:38,874 DEBUG :com.backend.model.User [<init>] New User Registered : madhu.ml193@gmail.com 
+2021-04-28 18:17:38,874 DEBUG :com.backend.model.User [<init>] New User Registered : kch@gmail.com 
+2021-04-28 18:17:38,874 DEBUG :com.backend.model.User [<init>] New User Registered : madhu@gmail.com 
+2021-04-28 18:17:38,875 DEBUG :com.backend.model.User [<init>] New User Registered : kch1@gmail.com 
+2021-04-28 18:17:38,876 DEBUG :com.backend.model.User [<init>] New User Registered : madhu3@gmail.com 
+2021-04-28 18:17:38,879 DEBUG :com.backend.model.User [<init>] New User Registered : kch2@gmail.com 
+2021-04-28 18:17:38,880 DEBUG :com.backend.model.MessageThread [<init>] Message Thread Object Created for User : kch@gmail.com 
+2021-04-28 18:17:38,881 DEBUG :com.backend.model.MessageThread [<init>] Message Thread Object Created for User : kch1@gmail.com 
+2021-04-28 18:17:38,882 DEBUG :com.backend.model.MessageThread [<init>] Message Thread Object Created for User : madhu@gmail.com 
+2021-04-28 18:17:38,882 DEBUG :com.backend.model.MessageThread [<init>] Message Thread Object Created for User : madhu3@gmail.com 
+2021-04-28 18:17:38,882 DEBUG :com.backend.model.MessageThread [<init>] Message Thread Object Created for User : kch2@gmail.com 
+2021-04-28 18:17:38,882 DEBUG :com.backend.model.MessageThread [<init>] Message Thread Object Created for User : ADMIN_USER 
+2021-04-28 18:17:38,883 DEBUG :com.backend.model.MessageThread [<init>] Message Thread Object Created for User : madhu.ml193@gmail.com 
+2021-04-28 18:17:38,883 DEBUG :com.backend.applications.ChatServerEndPoint [generateMessageThreadsToAllUsers] Generated Empty Message Threads to users if needed 
+2021-04-28 18:17:38,884 DEBUG :com.backend.utils.UserImpl [<clinit>] user objects created 
+2021-04-28 18:17:38,885 DEBUG :com.backend.controllers.LoginController [service] User Authenticated : madhu@gmail.com 
+2021-04-28 18:17:39,444 DEBUG :com.backend.applications.ChatServerEndPoint [onOpen] Opening new Session/Connection 
+2021-04-28 18:17:39,444 DEBUG :com.backend.applications.ChatServerEndPoint [onOpen] User Logged in 
+2021-04-28 21:35:27,145 DEBUG :org.jboss.resteasy.plugins.providers.FileProvider [<clinit>] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2021-04-28 21:35:27,205 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-28 21:35:27,222 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-28 21:36:21,672 DEBUG :org.jboss.resteasy.plugins.providers.FileProvider [<clinit>] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2021-04-28 21:36:21,735 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-28 21:36:21,751 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-28 21:36:35,573 DEBUG :org.jboss.resteasy.plugins.providers.FileProvider [<clinit>] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2021-04-28 21:36:35,630 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-28 21:36:35,636 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-28 21:36:51,689 DEBUG :com.backend.controllers.LoginController [service]  
+2021-04-28 21:36:51,699 DEBUG :com.backend.model.User [<init>] New User Registered : ADMIN_USER 
+2021-04-28 21:36:51,700 DEBUG :com.backend.model.User [<init>] New User Registered : madhu.ml193@gmail.com 
+2021-04-28 21:36:51,700 DEBUG :com.backend.model.User [<init>] New User Registered : kch@gmail.com 
+2021-04-28 21:36:51,700 DEBUG :com.backend.model.User [<init>] New User Registered : madhu@gmail.com 
+2021-04-28 21:36:51,701 DEBUG :com.backend.model.User [<init>] New User Registered : kch1@gmail.com 
+2021-04-28 21:36:51,701 DEBUG :com.backend.model.User [<init>] New User Registered : madhu3@gmail.com 
+2021-04-28 21:36:51,702 DEBUG :com.backend.model.User [<init>] New User Registered : kch2@gmail.com 
+2021-04-28 21:36:51,703 DEBUG :com.backend.model.MessageThread [<init>] Message Thread Object Created for User : kch@gmail.com 
+2021-04-28 21:36:51,704 DEBUG :com.backend.model.MessageThread [<init>] Message Thread Object Created for User : kch1@gmail.com 
+2021-04-28 21:36:51,704 DEBUG :com.backend.model.MessageThread [<init>] Message Thread Object Created for User : madhu@gmail.com 
+2021-04-28 21:36:51,705 DEBUG :com.backend.model.MessageThread [<init>] Message Thread Object Created for User : madhu3@gmail.com 
+2021-04-28 21:36:51,705 DEBUG :com.backend.model.MessageThread [<init>] Message Thread Object Created for User : kch2@gmail.com 
+2021-04-28 21:36:51,705 DEBUG :com.backend.model.MessageThread [<init>] Message Thread Object Created for User : ADMIN_USER 
+2021-04-28 21:36:51,706 DEBUG :com.backend.model.MessageThread [<init>] Message Thread Object Created for User : madhu.ml193@gmail.com 
+2021-04-28 21:36:51,706 DEBUG :com.backend.applications.ChatServerEndPoint [generateMessageThreadsToAllUsers] Generated Empty Message Threads to users if needed 
+2021-04-28 21:36:51,706 DEBUG :com.backend.utils.UserImpl [<clinit>] user objects created 
+2021-04-28 21:36:51,708 DEBUG :com.backend.controllers.LoginController [service] User Authenticated : madhu@gmail.com 
+2021-04-28 21:36:52,366 DEBUG :com.backend.applications.ChatServerEndPoint [onOpen] Opening new Session/Connection 
+2021-04-28 21:36:52,366 DEBUG :com.backend.applications.ChatServerEndPoint [onOpen] User Logged in 
+2021-04-28 21:37:09,851 DEBUG :com.backend.applications.ChatServerEndPoint [onMessage] madhu@gmail.com  ;;  hjhhh 
+2021-04-28 21:37:09,851 DEBUG :com.backend.applications.ChatServerEndPoint [onMessage] Message Received at serrver 
+2021-04-28 21:37:10,123 DEBUG :com.backend.applications.ChatServerEndPoint [onMessage] madhu@gmail.com  ;;  h 
+2021-04-28 21:37:10,123 DEBUG :com.backend.applications.ChatServerEndPoint [onMessage] Message Received at serrver 
+2021-04-28 21:37:12,006 DEBUG :com.backend.applications.ChatServerEndPoint [onMessage] madhu@gmail.com  ;;  h 
+2021-04-28 21:37:12,006 DEBUG :com.backend.applications.ChatServerEndPoint [onMessage] Message Received at serrver 
+2021-04-28 21:37:13,304 DEBUG :com.backend.applications.ChatServerEndPoint [onMessage] madhu@gmail.com  ;;  hhhh 
+2021-04-28 21:37:13,305 DEBUG :com.backend.applications.ChatServerEndPoint [onMessage] Message Received at serrver 
+2021-04-28 21:37:14,101 DEBUG :com.backend.applications.ChatServerEndPoint [onMessage] madhu@gmail.com  ;;  hhh 
+2021-04-28 21:37:14,101 DEBUG :com.backend.applications.ChatServerEndPoint [onMessage] Message Received at serrver 
+2021-04-28 21:37:14,472 DEBUG :com.backend.applications.ChatServerEndPoint [onMessage] madhu@gmail.com  ;;  h 
+2021-04-28 21:37:14,472 DEBUG :com.backend.applications.ChatServerEndPoint [onMessage] Message Received at serrver 
+2021-04-28 21:37:14,650 DEBUG :com.backend.applications.ChatServerEndPoint [onMessage] madhu@gmail.com  ;;  h 
+2021-04-28 21:37:14,651 DEBUG :com.backend.applications.ChatServerEndPoint [onMessage] Message Received at serrver 
+2021-04-28 21:37:17,511 DEBUG :com.backend.applications.ChatServerEndPoint [onMessage] madhu@gmail.com  ;;  hhhhh 
+2021-04-28 21:37:17,511 DEBUG :com.backend.applications.ChatServerEndPoint [onMessage] Message Received at serrver 
+2021-04-28 21:37:31,436 DEBUG :com.backend.applications.ChatServerEndPoint [onClose] madhu@gmail.comabout to close 
+2021-04-28 21:37:31,437 DEBUG :com.backend.applications.ChatServerEndPoint [onClose] Session removed madhu@gmail.com 
+2021-04-28 21:37:31,437 DEBUG :com.backend.applications.ChatServerEndPoint [onClose] Session closed 

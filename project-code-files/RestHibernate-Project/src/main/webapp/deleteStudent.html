@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>delete Student</title>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<h3>Delete By ID</h3>
+<h4>app/students/{studentId}</h4>
+</head>
+<body>
+
+<div ng-app="studentDelete" ng-controller="studentDeleteController" ng-init="">
+<div>
+Student Id : <input type="text" ng-model="studentId">
+<br><br>
+<input type="submit"  id="idField" ng-click="deleteStudentData(studentId)">
+<br><br>
+ Student Id : {{studentId}}
+ <br>
+<table border="width:300px" style="text-align:center">
+<th><td>Student Data</td></th>
+<tr><td>Student Name </td><td> {{student['first_name']}}</td></tr>
+<tr><td>Student ID </td><td> {{student['id']}}</td></tr>
+<tr><td>Student Mobile </td><td> {{student['mobile']}}</td></tr>
+<tr><td>Message</td><td> {{messageCallback}}</td></tr>
+</table>
+</div>
+</div>
+
+<script>
+// GET DATA based on Student Id 
+var baseUrl = "http://localhost:8080/RestHibernate-Project/app/students/";
+
+var app = angular.module("studentDelete",[])
+app.controller("studentDeleteController", function($scope,$http){
+	$scope.student = null;
+	
+	$scope.deleteStudentData = function(studentId){
+		
+		$http.delete(baseUrl+studentId,null).then(function(response){
+			$scope.student = response.data;
+			$scope.messageCallback = "Student Data Deleted Successfully";
+		},
+		function(response){
+			$scope.student = null;
+			$scope.messageCallback = "ERROR / Student data Not Found";
+		});
+		
+		
+		
+	}
+});
+
+</script>
+
+</body>
+</html>

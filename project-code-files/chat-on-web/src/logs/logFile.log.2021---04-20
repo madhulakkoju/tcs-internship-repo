@@ -1,0 +1,100 @@
+2021-04-20 18:59:11,774 DEBUG :org.jboss.resteasy.plugins.providers.FileProvider [<clinit>] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2021-04-20 18:59:11,831 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-20 18:59:11,838 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-20 18:59:18,666 DEBUG :org.jboss.resteasy.plugins.providers.FileProvider [<clinit>] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2021-04-20 18:59:18,713 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-20 18:59:18,720 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-20 19:07:59,293 DEBUG :org.jboss.resteasy.plugins.providers.FileProvider [<clinit>] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2021-04-20 19:07:59,341 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-20 19:07:59,350 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-20 19:08:02,227 DEBUG :org.jboss.resteasy.plugins.providers.FileProvider [<clinit>] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2021-04-20 19:08:02,279 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-20 19:08:02,285 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-20 19:13:29,460 DEBUG :org.jboss.resteasy.plugins.providers.FileProvider [<clinit>] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2021-04-20 19:13:29,515 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-20 19:13:29,521 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-20 19:13:32,332 DEBUG :org.jboss.resteasy.plugins.providers.FileProvider [<clinit>] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2021-04-20 19:13:32,377 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-20 19:13:32,383 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-04-20 20:21:35,241 DEBUG :com.execution.run.Main [main] [com.backend.model.Transaction@64f6106c, com.backend.model.Transaction@553a3d88, com.backend.model.Transaction@7a30d1e6, com.backend.model.Transaction@5891e32e] 
+2021-04-20 20:21:35,244 DEBUG :com.execution.run.Main [main] [com.backend.model.Transaction@4e718207, com.backend.model.Transaction@1d371b2d, com.backend.model.Transaction@543c6f6d, com.backend.model.Transaction@13eb8acf] 
+2021-04-20 21:20:58,658 DEBUG :com.execution.run.Main [main] [com.backend.model.Transaction@7a30d1e6, com.backend.model.Transaction@5891e32e, com.backend.model.Transaction@cb0ed20, com.backend.model.Transaction@8e24743] 
+2021-04-20 21:20:58,662 DEBUG :com.execution.run.Main [main] [] 
+2021-04-20 21:25:06,640 DEBUG :com.execution.run.Main [main] [com.backend.model.Transaction@7a30d1e6, com.backend.model.Transaction@5891e32e, com.backend.model.Transaction@cb0ed20, com.backend.model.Transaction@8e24743] 
+2021-04-20 21:25:06,643 DEBUG :com.execution.run.Main [main] [] 
+2021-04-20 21:25:55,040 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:25:55,044 DEBUG :com.execution.run.Main [main] 2000 3 2 b a 10 
+2021-04-20 21:25:55,044 DEBUG :com.execution.run.Main [main] 2000 6 2 b a 10 
+2021-04-20 21:25:55,044 DEBUG :com.execution.run.Main [main] 2020 2 2 b a 10 
+2021-04-20 21:25:55,045 DEBUG :com.execution.run.Main [main] [com.backend.model.Transaction@28ac3dc3, com.backend.model.Transaction@32eebfca, com.backend.model.Transaction@4e718207, com.backend.model.Transaction@1d371b2d] 
+2021-04-20 21:25:55,045 DEBUG :com.execution.run.Main [main] [] 
+2021-04-20 21:26:50,333 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:26:50,337 DEBUG :com.execution.run.Main [main] 2000 3 2 b a 10 
+2021-04-20 21:26:50,337 DEBUG :com.execution.run.Main [main] 2000 6 2 b a 10 
+2021-04-20 21:26:50,337 DEBUG :com.execution.run.Main [main] 2020 2 2 b a 10 
+2021-04-20 21:26:50,337 DEBUG :com.execution.run.Main [main] [com.backend.model.Transaction@28ac3dc3, com.backend.model.Transaction@32eebfca, com.backend.model.Transaction@4e718207, com.backend.model.Transaction@1d371b2d] 
+2021-04-20 21:26:50,338 DEBUG :com.execution.run.Main [main] [] 
+2021-04-20 21:27:20,578 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:27:20,582 DEBUG :com.execution.run.Main [main] 2000 3 2 b a 10 
+2021-04-20 21:27:20,582 DEBUG :com.execution.run.Main [main] 2000 6 2 b a 10 
+2021-04-20 21:27:20,582 DEBUG :com.execution.run.Main [main] 2020 2 2 b a 10 
+2021-04-20 21:27:20,582 DEBUG :com.execution.run.Main [main] [com.backend.model.Transaction@28ac3dc3, com.backend.model.Transaction@32eebfca, com.backend.model.Transaction@4e718207, com.backend.model.Transaction@1d371b2d] 
+2021-04-20 21:27:20,583 DEBUG :com.execution.run.Main [main] sdfs     [] 
+2021-04-20 21:28:16,714 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:28:16,717 DEBUG :com.execution.run.Main [main] 2000 3 2 b a 10 
+2021-04-20 21:28:16,717 DEBUG :com.execution.run.Main [main] 2000 6 2 b a 10 
+2021-04-20 21:28:16,717 DEBUG :com.execution.run.Main [main] 2020 2 2 b a 10 
+2021-04-20 21:28:16,718 DEBUG :com.execution.run.Main [main] [com.backend.model.Transaction@28ac3dc3, com.backend.model.Transaction@32eebfca, com.backend.model.Transaction@4e718207, com.backend.model.Transaction@1d371b2d] 
+2021-04-20 21:28:16,718 DEBUG :com.execution.run.Main [main] sdfs     [com.backend.model.Amounts@543c6f6d, com.backend.model.Amounts@13eb8acf, com.backend.model.Amounts@51c8530f, com.backend.model.Amounts@7403c468] 
+2021-04-20 21:28:37,343 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:28:37,347 DEBUG :com.execution.run.Main [main] 2000 3 2 b a 10 
+2021-04-20 21:28:37,347 DEBUG :com.execution.run.Main [main] 2000 6 2 b a 10 
+2021-04-20 21:28:37,347 DEBUG :com.execution.run.Main [main] 2020 2 2 b a 10 
+2021-04-20 21:28:37,347 DEBUG :com.execution.run.Main [main] [com.backend.model.Transaction@28ac3dc3, com.backend.model.Transaction@32eebfca, com.backend.model.Transaction@4e718207, com.backend.model.Transaction@1d371b2d] 
+2021-04-20 21:28:37,348 DEBUG :com.execution.run.Main [main] sdfs     [com.backend.model.Amounts@543c6f6d, com.backend.model.Amounts@13eb8acf, com.backend.model.Amounts@51c8530f, com.backend.model.Amounts@7403c468] 
+2021-04-20 21:29:24,846 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:29:24,849 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:29:24,850 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:29:24,850 DEBUG :com.execution.run.Main [main] 2020 2 2 b a 10 
+2021-04-20 21:29:24,850 DEBUG :com.execution.run.Main [main] [com.backend.model.Transaction@28ac3dc3, com.backend.model.Transaction@32eebfca, com.backend.model.Transaction@4e718207, com.backend.model.Transaction@1d371b2d] 
+2021-04-20 21:29:24,850 DEBUG :com.execution.run.Main [main] sdfs     [com.backend.model.Amounts@543c6f6d, com.backend.model.Amounts@543c6f6d, com.backend.model.Amounts@543c6f6d, com.backend.model.Amounts@13eb8acf] 
+2021-04-20 21:30:32,954 DEBUG :com.backend.model.User [addTransaction] df 
+2021-04-20 21:30:32,957 DEBUG :com.backend.model.User [addTransaction] df 
+2021-04-20 21:30:32,957 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:30:32,958 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:30:32,958 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:30:32,958 DEBUG :com.execution.run.Main [main] 2020 2 2 b a 10 
+2021-04-20 21:30:32,958 DEBUG :com.execution.run.Main [main] [com.backend.model.Transaction@28ac3dc3, com.backend.model.Transaction@32eebfca, com.backend.model.Transaction@4e718207, com.backend.model.Transaction@1d371b2d] 
+2021-04-20 21:30:32,962 DEBUG :com.execution.run.Main [main] sdfs     [com.backend.model.Amounts@a74868d, com.backend.model.Amounts@a74868d, com.backend.model.Amounts@a74868d, com.backend.model.Amounts@12c8a2c0] 
+2021-04-20 21:31:42,441 DEBUG :com.backend.model.User [addTransaction] df 
+2021-04-20 21:31:42,445 DEBUG :com.backend.model.User [addTransaction] df 
+2021-04-20 21:31:42,445 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:31:42,445 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:31:42,445 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:31:42,445 DEBUG :com.execution.run.Main [main] 2020 2 2 b a 10 
+2021-04-20 21:31:42,446 DEBUG :com.execution.run.Main [main] [com.backend.model.Transaction@28ac3dc3, com.backend.model.Transaction@32eebfca, com.backend.model.Transaction@4e718207, com.backend.model.Transaction@1d371b2d] 
+2021-04-20 21:31:42,449 DEBUG :com.execution.run.Main [main] sdfs     [com.backend.model.Amounts@a74868d, com.backend.model.Amounts@a74868d, com.backend.model.Amounts@a74868d, com.backend.model.Amounts@12c8a2c0] 
+2021-04-20 21:32:20,686 DEBUG :com.backend.model.User [addTransaction]  
+2021-04-20 21:32:20,691 DEBUG :com.backend.model.User [addTransaction] df 
+2021-04-20 21:32:20,691 DEBUG :com.backend.model.User [addTransaction] com.backend.model.Amounts@28ac3dc3 
+2021-04-20 21:32:20,691 DEBUG :com.backend.model.User [addTransaction] df 
+2021-04-20 21:32:20,691 DEBUG :com.backend.model.User [addTransaction] com.backend.model.Amounts@28ac3dc3 
+2021-04-20 21:32:20,691 DEBUG :com.backend.model.User [addTransaction]  
+2021-04-20 21:32:20,695 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:32:20,695 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:32:20,696 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:32:20,696 DEBUG :com.execution.run.Main [main] 2020 2 2 b a 10 
+2021-04-20 21:32:20,696 DEBUG :com.execution.run.Main [main] [com.backend.model.Transaction@78ac1102, com.backend.model.Transaction@2de8284b, com.backend.model.Transaction@396e2f39, com.backend.model.Transaction@a74868d] 
+2021-04-20 21:32:20,696 DEBUG :com.execution.run.Main [main] sdfs     [com.backend.model.Amounts@28ac3dc3, com.backend.model.Amounts@28ac3dc3, com.backend.model.Amounts@28ac3dc3, com.backend.model.Amounts@12c8a2c0] 
+2021-04-20 21:33:08,955 DEBUG :com.backend.model.User [addTransaction]  
+2021-04-20 21:33:08,958 DEBUG :com.backend.model.User [addTransaction] df 
+2021-04-20 21:33:08,959 DEBUG :com.backend.model.User [addTransaction] com.backend.model.Amounts@28ac3dc3 
+2021-04-20 21:33:08,959 DEBUG :com.backend.model.User [addTransaction] df 
+2021-04-20 21:33:08,959 DEBUG :com.backend.model.User [addTransaction] com.backend.model.Amounts@28ac3dc3 
+2021-04-20 21:33:08,959 DEBUG :com.backend.model.User [addTransaction]  
+2021-04-20 21:33:08,963 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:33:08,963 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:33:08,963 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-20 21:33:08,963 DEBUG :com.execution.run.Main [main] 2020 2 2 b a 10 
+2021-04-20 21:33:08,964 DEBUG :com.execution.run.Main [main] [com.backend.model.Transaction@78ac1102, com.backend.model.Transaction@2de8284b, com.backend.model.Transaction@396e2f39, com.backend.model.Transaction@a74868d] 
+2021-04-20 21:33:08,964 DEBUG :com.execution.run.Main [main] sdfs     [com.backend.model.Amounts@28ac3dc3, com.backend.model.Amounts@12c8a2c0] 

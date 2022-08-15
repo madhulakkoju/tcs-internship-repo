@@ -1,0 +1,12 @@
+2021-04-21 12:36:31,951 DEBUG :com.backend.model.User [addTransaction]  
+2021-04-21 12:36:32,000 DEBUG :com.backend.model.User [addTransaction] df 
+2021-04-21 12:36:32,001 DEBUG :com.backend.model.User [addTransaction] com.backend.model.Amounts@32eebfca 
+2021-04-21 12:36:32,001 DEBUG :com.backend.model.User [addTransaction] df 
+2021-04-21 12:36:32,001 DEBUG :com.backend.model.User [addTransaction] com.backend.model.Amounts@32eebfca 
+2021-04-21 12:36:32,002 DEBUG :com.backend.model.User [addTransaction]  
+2021-04-21 12:36:32,006 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-21 12:36:32,006 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-21 12:36:32,007 DEBUG :com.execution.run.Main [main] 2000 2 2 b a 10 
+2021-04-21 12:36:32,008 DEBUG :com.execution.run.Main [main] 2020 2 2 b a 10 
+2021-04-21 12:36:32,008 DEBUG :com.execution.run.Main [main] [com.backend.model.Transaction@2de8284b, com.backend.model.Transaction@396e2f39, com.backend.model.Transaction@a74868d, com.backend.model.Transaction@12c8a2c0] 
+2021-04-21 12:36:32,008 DEBUG :com.execution.run.Main [main] sdfs     [com.backend.model.Amounts@32eebfca, com.backend.model.Amounts@7e0e6aa2] 

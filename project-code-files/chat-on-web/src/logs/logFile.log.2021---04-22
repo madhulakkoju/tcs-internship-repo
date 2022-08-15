@@ -1,0 +1,843 @@
+2021-04-22 16:04:29,176 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 16:04:29,186 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 16:04:29,187 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 16:04:29,187 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 16:04:29,211 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 16:04:29,216 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 3, 121] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:04:29,216 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 16:05:38,188 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 16:05:38,194 DEBUG :com.backend.model.Transaction [<init>] 121 
+2021-04-22 16:05:38,195 DEBUG :com.backend.model.Transaction [<init>] 3 
+2021-04-22 16:05:38,195 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 16:05:38,195 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 16:05:38,198 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 16:05:38,199 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 16:05:38,202 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 3, 121] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:05:38,203 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 16:28:56,817 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 16:29:26,524 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 16:29:26,541 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 16:29:26,541 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 16:29:26,541 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 16:29:26,546 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 16:29:26,549 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:29:26,550 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 16:31:21,510 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 16:31:21,524 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 16:31:21,524 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 16:31:21,524 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 16:31:21,529 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 16:31:21,532 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:31:21,533 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 3, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:31:21,533 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:31:21,533 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:31:21,533 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:31:21,534 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:31:21,534 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:31:21,534 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 16:33:13,352 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 16:33:13,363 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 16:33:13,363 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 16:33:13,363 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 16:33:13,370 DEBUG :com.backend.model.NetAmount [print] 2020 3 15000.0 0.0 
+2021-04-22 16:33:13,370 DEBUG :com.backend.model.NetAmount [print] 2021 4 15000.0 0.0 
+2021-04-22 16:33:13,370 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 16:33:13,371 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:33:13,371 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 3, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:33:13,372 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:33:13,372 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:33:13,372 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:33:13,373 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:33:13,373 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:33:13,373 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 16:38:37,230 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 16:38:37,238 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 16:38:37,238 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 16:38:37,239 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 16:38:37,245 DEBUG :com.backend.model.NetAmount [print] 2020 3 15000.0 0.0 
+2021-04-22 16:38:37,245 DEBUG :com.backend.model.NetAmount [print] 2021 4 15000.0 0.0 
+2021-04-22 16:38:37,245 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 16:38:37,246 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:38:37,246 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 3, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:38:37,246 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:38:37,246 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:38:37,247 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:38:37,247 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:38:37,247 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:38:37,247 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 16:40:41,516 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 16:40:41,524 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [22, 4, 2021] 
+2021-04-22 16:40:41,525 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [12, 3, 2020] 
+2021-04-22 16:40:41,525 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [12, 5, 2020] 
+2021-04-22 16:40:41,528 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [12, 5, 2020] 
+2021-04-22 16:40:41,529 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [12, 5, 2020] 
+2021-04-22 16:40:41,529 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [12, 6, 2020] 
+2021-04-22 16:40:41,529 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [12, 5, 2020] 
+2021-04-22 16:40:41,529 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 16:40:41,529 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 16:40:41,530 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 16:40:41,533 DEBUG :com.backend.model.NetAmount [print] 2020 3 15000.0 0.0 
+2021-04-22 16:40:41,533 DEBUG :com.backend.model.NetAmount [print] 2021 4 15000.0 0.0 
+2021-04-22 16:40:41,533 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 16:40:41,534 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:40:41,534 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 3, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:40:41,536 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:40:41,536 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:40:41,537 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:40:41,537 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:40:41,537 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:40:41,537 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 16:41:49,583 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 16:41:49,593 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [22, 4, 2021]2021 4 
+2021-04-22 16:41:49,594 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [12, 3, 2020]2020 3 
+2021-04-22 16:41:49,594 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [12, 5, 2020]2020 5 
+2021-04-22 16:41:49,598 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [12, 5, 2020]2020 5 
+2021-04-22 16:41:49,598 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [12, 5, 2020]2020 5 
+2021-04-22 16:41:49,598 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [12, 6, 2020]2020 6 
+2021-04-22 16:41:49,598 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [12, 5, 2020]2020 5 
+2021-04-22 16:41:49,599 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 16:41:49,599 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 16:41:49,599 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 16:41:49,602 DEBUG :com.backend.model.NetAmount [print] 2020 3 15000.0 0.0 
+2021-04-22 16:41:49,602 DEBUG :com.backend.model.NetAmount [print] 2021 4 15000.0 0.0 
+2021-04-22 16:41:49,602 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 16:41:49,603 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:41:49,603 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 3, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:41:49,605 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:41:49,606 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:41:49,606 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:41:49,606 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:41:49,607 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:41:49,607 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 16:44:03,082 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 16:44:03,091 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [22, 4, 2021]2021 4 
+2021-04-22 16:44:03,092 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 16:44:03,092 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [12, 3, 2020]2020 3 
+2021-04-22 16:44:03,096 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 3 2020 -->  
+2021-04-22 16:44:03,097 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 16:44:03,097 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [12, 5, 2020]2020 5 
+2021-04-22 16:44:03,097 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 3 2020 -->  
+2021-04-22 16:44:03,097 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 16:44:03,097 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [12, 5, 2020]2020 5 
+2021-04-22 16:44:03,098 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 3 2020 -->  
+2021-04-22 16:44:03,098 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 16:44:03,098 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [12, 5, 2020]2020 5 
+2021-04-22 16:44:03,098 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 3 2020 -->  
+2021-04-22 16:44:03,098 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 16:44:03,099 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [12, 6, 2020]2020 6 
+2021-04-22 16:44:03,101 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 3 2020 -->  
+2021-04-22 16:44:03,102 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 16:44:03,102 INFO :com.backend.model.MonthlyAmounts [addTransaction] added [12, 5, 2020]2020 5 
+2021-04-22 16:44:03,102 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 16:44:03,102 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 16:44:03,103 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 16:44:03,107 DEBUG :com.backend.model.NetAmount [print] 2020 3 15000.0 0.0 
+2021-04-22 16:44:03,107 DEBUG :com.backend.model.NetAmount [print] 2021 4 15000.0 0.0 
+2021-04-22 16:44:03,107 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 16:44:03,108 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:44:03,108 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 3, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:44:03,108 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:44:03,109 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:44:03,109 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:44:03,109 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:44:03,110 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:44:03,110 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 16:45:11,521 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 16:45:11,530 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 16:45:11,530 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 16:45:11,530 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 3, 2020]2020 3 
+2021-04-22 16:45:11,534 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 3 2020 -->  
+2021-04-22 16:45:11,534 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 16:45:11,535 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 16:45:11,535 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 3 2020 -->  
+2021-04-22 16:45:11,535 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 16:45:11,535 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 16:45:11,535 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 3 2020 -->  
+2021-04-22 16:45:11,536 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 16:45:11,536 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 16:45:11,536 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 3 2020 -->  
+2021-04-22 16:45:11,536 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 16:45:11,536 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 16:45:11,539 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 3 2020 -->  
+2021-04-22 16:45:11,539 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 16:45:11,539 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 16:45:11,539 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 16:45:11,539 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 16:45:11,539 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 16:45:11,543 DEBUG :com.backend.model.NetAmount [print] 2020 3 15000.0 0.0 
+2021-04-22 16:45:11,543 DEBUG :com.backend.model.NetAmount [print] 2021 4 15000.0 0.0 
+2021-04-22 16:45:11,543 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 16:45:11,543 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:45:11,543 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 3, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:45:11,544 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:45:11,544 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:45:11,544 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:45:11,544 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:45:11,544 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:45:11,545 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 16:57:04,384 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 16:57:04,396 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 16:57:04,397 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 16:57:04,397 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 3, 2020]2020 3 
+2021-04-22 16:57:04,401 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 16:57:04,401 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 3 2020 -->  
+2021-04-22 16:57:04,401 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 16:57:04,401 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 16:57:04,402 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 5 2020 -->  
+2021-04-22 16:57:04,402 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 16:57:04,402 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 16:57:04,402 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 5 2020 -->  
+2021-04-22 16:57:04,403 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 16:57:04,403 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 16:57:04,403 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 5 2020 -->  
+2021-04-22 16:57:04,403 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 3 2020 -->  
+2021-04-22 16:57:04,407 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 16:57:04,407 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 16:57:04,408 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 6 2020 -->  
+2021-04-22 16:57:04,408 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 5 2020 -->  
+2021-04-22 16:57:04,408 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 16:57:04,408 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 16:57:04,408 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 16:57:04,409 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 16:57:04,412 DEBUG :com.backend.model.NetAmount [print] 2021 4 15000.0 0.0 
+2021-04-22 16:57:04,412 DEBUG :com.backend.model.NetAmount [print] 2020 6 15000.0 0.0 
+2021-04-22 16:57:04,412 DEBUG :com.backend.model.NetAmount [print] 2020 5 60000.0 0.0 
+2021-04-22 16:57:04,412 DEBUG :com.backend.model.NetAmount [print] 2020 3 15000.0 0.0 
+2021-04-22 16:57:04,413 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 16:57:04,413 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:57:04,413 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 3, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:57:04,413 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:57:04,414 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:57:04,414 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:57:04,414 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:57:04,414 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 16:57:04,414 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 17:01:58,398 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 17:01:58,406 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 17:01:58,407 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 17:01:58,407 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 3, 2020]2020 3 
+2021-04-22 17:01:58,410 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 17:01:58,411 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 3 2020 -->  
+2021-04-22 17:01:58,411 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 17:01:58,411 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 17:01:58,411 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 5 2020 -->  
+2021-04-22 17:01:58,412 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 17:01:58,412 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 17:01:58,412 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 5 2020 -->  
+2021-04-22 17:01:58,412 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 17:01:58,412 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 17:01:58,412 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 5 2020 -->  
+2021-04-22 17:01:58,413 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 3 2020 -->  
+2021-04-22 17:01:58,415 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 17:01:58,415 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 17:01:58,415 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 6 2020 -->  
+2021-04-22 17:01:58,415 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 5 2020 -->  
+2021-04-22 17:01:58,416 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 17:01:58,416 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 17:01:58,416 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 6 2020 -->  
+2021-04-22 17:01:58,416 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 17:01:58,416 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 17:01:58,416 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 6 2020 -->  
+2021-04-22 17:01:58,417 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 5 2020 -->  
+2021-04-22 17:01:58,417 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 17:01:58,417 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 17:01:58,417 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 17:01:58,417 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 17:01:58,420 DEBUG :com.backend.model.NetAmount [print] 2021 4 15000.0 0.0 
+2021-04-22 17:01:58,421 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 17:01:58,421 DEBUG :com.backend.model.NetAmount [print] 2020 5 20000.0 500.0 
+2021-04-22 17:01:58,421 DEBUG :com.backend.model.NetAmount [print] 2020 3 5000.0 0.0 
+2021-04-22 17:01:58,421 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 17:01:58,421 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:01:58,422 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 3, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:01:58,422 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:01:58,422 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:01:58,422 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:01:58,422 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:01:58,423 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:01:58,423 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 500.0 TCS FOOD_BEVERAGES EXPENSE CASH Rice 
+2021-04-22 17:01:58,423 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 500.0 TCS FOOD_BEVERAGES EXPENSE UPI Dal 
+2021-04-22 17:01:58,423 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 17:05:33,851 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 17:05:33,859 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 17:05:33,859 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 17:05:33,860 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 17:05:33,863 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 17:05:33,863 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 6 2020 -->  
+2021-04-22 17:05:33,864 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 17:05:33,864 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 17:05:33,864 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 6 2020 -->  
+2021-04-22 17:05:33,864 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 17:05:33,864 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 17:05:33,865 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 6 2020 -->  
+2021-04-22 17:05:33,865 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 5 2020 -->  
+2021-04-22 17:05:33,865 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 17:05:33,865 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 17:05:33,865 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 17:05:33,868 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 17:05:33,871 DEBUG :com.backend.model.NetAmount [print] 2021 4 15000.0 0.0 
+2021-04-22 17:05:33,872 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 17:05:33,872 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 17:05:33,872 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 17:05:33,872 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:05:33,872 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:05:33,873 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:05:33,873 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 500.0 TCS FOOD_BEVERAGES EXPENSE CASH Rice 
+2021-04-22 17:05:33,873 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 500.0 TCS FOOD_BEVERAGES EXPENSE UPI Dal 
+2021-04-22 17:05:33,873 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 17:06:15,400 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 17:06:15,409 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 17:06:15,409 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 17:06:15,409 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 17:06:15,413 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 17:06:15,413 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 6 2020 -->  
+2021-04-22 17:06:15,413 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 17:06:15,414 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 17:06:15,414 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 6 2020 -->  
+2021-04-22 17:06:15,414 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 17:06:15,415 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 4 2021 -->  
+2021-04-22 17:06:15,415 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 6 2020 -->  
+2021-04-22 17:06:15,415 ERROR :com.backend.model.MonthlyAmounts [addTransaction] 5 2020 -->  
+2021-04-22 17:06:15,416 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 17:06:15,416 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 17:06:15,416 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 17:06:15,419 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 17:06:15,422 DEBUG :com.backend.model.NetAmount [print] 2021 4 15000.0 0.0 
+2021-04-22 17:06:15,422 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 17:06:15,423 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 17:06:15,423 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 17:06:15,423 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:06:15,424 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:06:15,424 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:06:15,424 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 500.0 Raja depo FOOD_BEVERAGES EXPENSE CASH Rice 
+2021-04-22 17:06:15,424 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 500.0 More supermarket FOOD_BEVERAGES EXPENSE UPI Dal 
+2021-04-22 17:06:15,424 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 17:06:35,665 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 17:06:35,674 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 17:06:35,674 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 17:06:35,674 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 17:06:35,678 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 17:06:35,678 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 17:06:35,679 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 17:06:35,679 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 17:06:35,679 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 17:06:35,682 DEBUG :com.backend.model.NetAmount [print] 2021 4 15000.0 0.0 
+2021-04-22 17:06:35,683 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 17:06:35,683 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 17:06:35,683 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 17:06:35,684 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 15000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:06:35,684 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:06:35,684 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:06:35,686 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 500.0 Raja depo FOOD_BEVERAGES EXPENSE CASH Rice 
+2021-04-22 17:06:35,687 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 500.0 More supermarket FOOD_BEVERAGES EXPENSE UPI Dal 
+2021-04-22 17:06:35,687 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 17:08:00,624 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 17:08:00,632 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 17:08:00,633 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 17:08:00,633 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 17:08:00,637 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 17:08:00,637 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 17:08:00,637 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 17:08:00,637 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 17:08:00,637 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 17:08:00,640 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 17:08:00,641 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 17:08:00,641 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 17:08:00,641 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 17:08:00,641 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:08:00,642 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:08:00,642 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:08:00,644 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 500.0 Raja depo FOOD_BEVERAGES EXPENSE CASH Rice 
+2021-04-22 17:08:00,644 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 500.0 More supermarket FOOD_BEVERAGES EXPENSE UPI Dal 
+2021-04-22 17:08:00,645 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 17:16:10,239 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 17:23:59,571 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 17:23:59,580 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 17:23:59,580 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 17:23:59,581 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 17:23:59,584 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 17:23:59,584 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 17:23:59,585 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 17:23:59,585 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 17:23:59,585 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 17:23:59,589 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 17:23:59,589 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 17:23:59,589 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 17:23:59,589 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 17:23:59,590 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:23:59,590 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:23:59,591 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 17:23:59,593 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 17:23:59,594 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2020 5 
+2021-04-22 17:23:59,594 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2021 4 
+2021-04-22 17:23:59,594 DEBUG :com.backend.model.NetAmount [print] 2021 4 0.0 0.0 
+2021-04-22 18:06:50,749 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 18:06:50,777 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 18:06:50,778 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 18:06:50,778 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 18:06:50,782 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 18:06:50,782 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 18:06:50,782 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:06:50,782 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 18:06:50,783 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:06:50,786 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:06:50,786 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:06:50,786 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:06:50,786 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:06:50,787 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:06:50,787 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:06:50,787 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:06:50,790 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:06:50,790 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2020 5 
+2021-04-22 18:06:50,791 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2021 4 
+2021-04-22 18:06:50,791 DEBUG :com.backend.model.NetAmount [print] 2021 4 0.0 0.0 
+2021-04-22 18:06:50,791 DEBUG :com.backend.model.User [<init>] New User Created madhu123@gmail.com 
+2021-04-22 18:06:50,792 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 18:06:50,792 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 18:06:50,792 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 18:06:50,793 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 18:06:50,793 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 18:06:50,793 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:06:50,794 DEBUG :com.backend.model.User [print] madhu123@gmail.com madhu123@gmail.com 8686156086 
+2021-04-22 18:06:50,794 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:06:50,794 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:06:50,794 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:06:50,794 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:06:50,795 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:06:50,795 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 HOME SERVICES INCOME CASH Monthly Pay 
+2021-04-22 18:06:50,795 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:06:50,795 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:06:50,795 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:06:50,796 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2020 5 
+2021-04-22 18:06:50,796 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2021 4 
+2021-04-22 18:06:50,796 DEBUG :com.backend.model.NetAmount [print] 2021 4 0.0 0.0 
+2021-04-22 18:07:41,496 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 18:07:41,505 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 18:07:41,506 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 18:07:41,506 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 18:07:41,510 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 18:07:41,510 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 18:07:41,510 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:07:41,511 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 18:07:41,511 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:07:41,515 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:07:41,515 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:07:41,515 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:07:41,515 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:07:41,516 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:07:41,516 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:07:41,516 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:07:41,520 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:07:41,520 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2020 5 
+2021-04-22 18:07:41,520 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2021 4 
+2021-04-22 18:07:41,521 DEBUG :com.backend.model.NetAmount [print] 2021 4 0.0 0.0 
+2021-04-22 18:07:41,521 DEBUG :com.backend.model.User [<init>] New User Created madhu123@gmail.com 
+2021-04-22 18:07:41,522 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 18:07:41,522 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 18:07:41,522 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 18:07:41,522 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 18:07:41,523 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 18:07:41,523 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:07:41,524 DEBUG :com.backend.model.User [print] madhu123@gmail.com madhu123@gmail.com 8686156086 
+2021-04-22 18:07:41,524 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:07:41,524 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:07:41,525 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:07:41,525 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:07:41,525 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:07:41,525 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 HOME SERVICES INCOME CASH Monthly Pay 
+2021-04-22 18:07:41,526 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:07:41,526 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:07:41,526 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:07:41,526 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2020 5 
+2021-04-22 18:07:41,526 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2021 4 
+2021-04-22 18:07:41,527 DEBUG :com.backend.model.NetAmount [print] 2021 4 0.0 0.0 
+2021-04-22 18:08:26,292 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 18:08:26,301 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 18:08:26,302 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 18:08:26,302 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 18:08:26,307 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 18:08:26,307 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 18:08:26,307 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:08:26,308 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 18:08:26,308 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:08:26,313 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:08:26,313 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:08:26,313 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:08:26,314 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:08:26,314 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:08:26,314 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:08:26,318 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:08:26,321 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:08:26,322 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2020 5 
+2021-04-22 18:08:26,322 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2021 4 
+2021-04-22 18:08:26,323 DEBUG :com.backend.model.NetAmount [print] 2021 4 0.0 0.0 
+2021-04-22 18:08:26,323 DEBUG :com.backend.model.User [<init>] New User Created madhu123@gmail.com 
+2021-04-22 18:08:26,323 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 18:08:26,323 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 18:08:26,323 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 18:08:26,324 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 18:08:26,324 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 18:08:26,324 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:08:26,324 DEBUG :com.backend.model.User [print] madhu123@gmail.com madhu123@gmail.com 8686156086 
+2021-04-22 18:08:26,324 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:08:26,325 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:08:26,325 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:08:26,325 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:08:26,325 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:08:26,325 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 HOME SERVICES INCOME CASH Monthly Pay 
+2021-04-22 18:08:26,326 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:08:26,326 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:08:26,326 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:08:26,326 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2020 5 
+2021-04-22 18:08:26,326 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2021 4 
+2021-04-22 18:08:26,327 DEBUG :com.backend.model.NetAmount [print] 2021 4 0.0 0.0 
+2021-04-22 18:09:04,986 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 18:09:04,994 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 18:09:04,994 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 18:09:04,995 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 18:09:04,998 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 18:09:04,998 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 18:09:04,999 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:09:04,999 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 18:09:04,999 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:09:05,002 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:09:05,002 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:09:05,003 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:09:05,003 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:09:05,003 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:05,003 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:05,003 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:05,006 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:09:05,006 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2020 5 
+2021-04-22 18:09:05,006 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2021 4 
+2021-04-22 18:09:05,006 DEBUG :com.backend.model.NetAmount [print] 2021 4 0.0 0.0 
+2021-04-22 18:09:05,007 DEBUG :com.backend.model.User [<init>] New User Created madhu123@gmail.com 
+2021-04-22 18:09:05,007 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 18:09:05,007 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 18:09:05,007 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 18:09:05,007 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 18:09:05,008 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 18:09:05,008 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:09:05,008 DEBUG :com.backend.model.User [print] madhu123@gmail.com madhu123@gmail.com 8686156086 
+2021-04-22 18:09:05,008 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:09:05,008 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:09:05,009 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:09:05,009 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:09:05,009 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:09:05,009 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 HOME SERVICES INCOME CASH Monthly Pay 
+2021-04-22 18:09:05,009 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:05,010 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:05,010 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:09:05,010 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2020 5 
+2021-04-22 18:09:05,010 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2021 4 
+2021-04-22 18:09:05,010 DEBUG :com.backend.model.NetAmount [print] 2021 4 0.0 0.0 
+2021-04-22 18:09:05,010 DEBUG :com.backend.impl.UserImpl [print] -----------------ALL USERS-------------- 
+2021-04-22 18:09:05,011 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:09:05,011 DEBUG :com.backend.model.User [print] madhu123@gmail.com madhu123@gmail.com 8686156086 
+2021-04-22 18:09:05,011 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:09:05,011 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:09:05,011 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:09:05,012 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:09:05,012 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:09:05,012 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 HOME SERVICES INCOME CASH Monthly Pay 
+2021-04-22 18:09:05,012 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:05,012 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:05,013 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:09:05,013 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:09:05,013 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 18:09:05,013 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:09:05,013 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:09:05,013 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:09:05,014 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:09:05,014 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:09:05,014 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:05,014 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:05,014 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:05,015 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:09:05,015 DEBUG :com.backend.impl.UserImpl [print] ---------------DONE USERS--------------- 
+2021-04-22 18:09:41,737 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 18:09:41,745 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 18:09:41,745 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 18:09:41,746 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 18:09:41,749 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 18:09:41,749 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 18:09:41,750 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:09:41,750 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 18:09:41,750 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:09:41,753 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:09:41,753 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:09:41,753 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:09:41,754 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:09:41,754 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:41,754 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:41,754 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:41,757 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:09:41,757 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2020 5 
+2021-04-22 18:09:41,757 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2021 4 
+2021-04-22 18:09:41,757 DEBUG :com.backend.model.NetAmount [print] 2021 4 0.0 0.0 
+2021-04-22 18:09:41,757 DEBUG :com.backend.model.User [<init>] New User Created madhu123@gmail.com 
+2021-04-22 18:09:41,758 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 18:09:41,758 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 18:09:41,758 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 18:09:41,758 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 18:09:41,759 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 18:09:41,759 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:09:41,759 DEBUG :com.backend.model.User [print] madhu123@gmail.com madhu123@gmail.com 8686156086 
+2021-04-22 18:09:41,759 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:09:41,759 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:09:41,759 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:09:41,759 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:09:41,759 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:09:41,759 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 HOME SERVICES INCOME CASH Monthly Pay 
+2021-04-22 18:09:41,759 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:41,760 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:41,760 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:09:41,760 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2020 5 
+2021-04-22 18:09:41,760 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2021 4 
+2021-04-22 18:09:41,760 DEBUG :com.backend.model.NetAmount [print] 2021 4 0.0 0.0 
+2021-04-22 18:09:41,761 DEBUG :com.backend.impl.UserImpl [print] -----------------ALL USERS-------------- 
+2021-04-22 18:09:41,761 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:09:41,761 DEBUG :com.backend.model.User [print] madhu123@gmail.com madhu123@gmail.com 8686156086 
+2021-04-22 18:09:41,761 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:09:41,761 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:09:41,762 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:09:41,762 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:09:41,762 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:09:41,762 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 HOME SERVICES INCOME CASH Monthly Pay 
+2021-04-22 18:09:41,762 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:41,762 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:41,763 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:09:41,763 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:09:41,763 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 18:09:41,763 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:09:41,763 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:09:41,764 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:09:41,764 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:09:41,764 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:09:41,765 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:41,765 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:41,765 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:09:41,765 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:09:41,766 DEBUG :com.backend.impl.UserImpl [print] ---------------DONE USERS--------------- 
+2021-04-22 18:09:41,766 DEBUG :com.backend.impl.LoginImpl [print] --------------------LOGINS-------------- 
+2021-04-22 18:10:13,907 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 18:10:13,915 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 18:10:13,916 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 18:10:13,916 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 18:10:13,919 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 18:10:13,920 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 18:10:13,920 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:10:13,920 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 18:10:13,920 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:10:13,923 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:10:13,924 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:10:13,924 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:10:13,924 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:10:13,924 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:10:13,925 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:10:13,925 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:10:13,927 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:10:13,927 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2020 5 
+2021-04-22 18:10:13,928 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2021 4 
+2021-04-22 18:10:13,928 DEBUG :com.backend.model.NetAmount [print] 2021 4 0.0 0.0 
+2021-04-22 18:10:13,928 DEBUG :com.backend.model.User [<init>] New User Created madhu123@gmail.com 
+2021-04-22 18:10:13,928 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 18:10:13,928 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 18:10:13,929 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 18:10:13,929 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 18:10:13,929 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 18:10:13,929 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:10:13,929 DEBUG :com.backend.model.User [print] madhu123@gmail.com madhu123@gmail.com 8686156086 
+2021-04-22 18:10:13,930 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:10:13,930 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:10:13,930 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:10:13,930 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:10:13,930 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:10:13,930 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 HOME SERVICES INCOME CASH Monthly Pay 
+2021-04-22 18:10:13,931 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:10:13,931 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:10:13,931 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:10:13,931 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2020 5 
+2021-04-22 18:10:13,931 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2021 4 
+2021-04-22 18:10:13,932 DEBUG :com.backend.model.NetAmount [print] 2021 4 0.0 0.0 
+2021-04-22 18:10:13,932 DEBUG :com.backend.impl.UserImpl [print] -----------------ALL USERS-------------- 
+2021-04-22 18:10:13,932 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:10:13,932 DEBUG :com.backend.model.User [print] madhu123@gmail.com madhu123@gmail.com 8686156086 
+2021-04-22 18:10:13,932 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:10:13,933 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:10:13,933 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:10:13,933 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:10:13,933 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:10:13,933 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 HOME SERVICES INCOME CASH Monthly Pay 
+2021-04-22 18:10:13,934 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:10:13,934 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:10:13,934 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:10:13,935 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:10:13,935 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 18:10:13,935 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:10:13,935 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:10:13,936 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:10:13,936 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:10:13,936 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:10:13,937 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:10:13,937 DEBUG :com.backend.model.Transaction [print] TRANSACTION [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:10:13,937 DEBUG :com.backend.model.Transaction [print] TRANSACTION [22, 4, 2021] 12345.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:10:13,937 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:10:13,938 DEBUG :com.backend.impl.UserImpl [print] ---------------DONE USERS--------------- 
+2021-04-22 18:10:13,938 DEBUG :com.backend.impl.LoginImpl [print] --------------------LOGINS-------------- 
+2021-04-22 18:10:13,938 DEBUG :com.backend.model.LoginDetails [print] Email : madhu123@gmail.com password : pass 
+2021-04-22 18:10:13,939 DEBUG :com.backend.model.LoginDetails [print] Email : madhu@gmail.com password : pass 
+2021-04-22 18:18:07,411 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 18:18:07,422 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 18:18:07,422 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 18:18:07,422 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 18:18:07,426 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 18:18:07,427 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 18:18:07,427 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:18:07,427 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 18:18:07,427 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:18:07,430 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:18:07,431 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:18:07,431 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:18:07,431 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:18:07,431 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:18:07,432 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:18:07,432 DEBUG :com.backend.model.Transaction [print] TRANSACT [22, 4, 2021] 12345.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:18:07,434 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:18:07,435 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2020 5 
+2021-04-22 18:18:07,435 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2021 4 
+2021-04-22 18:18:07,435 DEBUG :com.backend.model.NetAmount [print] 2021 4 0.0 0.0 
+2021-04-22 18:18:07,436 DEBUG :com.backend.model.User [<init>] New User Created madhu123@gmail.com 
+2021-04-22 18:18:07,436 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [22, 4, 2021]2021 4 
+2021-04-22 18:18:07,436 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 6, 2020]2020 6 
+2021-04-22 18:18:07,437 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 2 [12, 5, 2020]2020 5 
+2021-04-22 18:18:07,437 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 6, 2020]2020 6 
+2021-04-22 18:18:07,437 INFO :com.backend.model.MonthlyAmounts [addTransaction] added 1 [12, 5, 2020]2020 5 
+2021-04-22 18:18:07,438 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:18:07,438 DEBUG :com.backend.model.User [print] madhu123@gmail.com madhu123@gmail.com 8686156086 
+2021-04-22 18:18:07,438 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:18:07,438 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:18:07,438 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:18:07,439 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:18:07,439 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:18:07,439 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 5, 2020] 5000.0 HOME SERVICES INCOME CASH Monthly Pay 
+2021-04-22 18:18:07,439 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 6, 2020] 5000.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:18:07,440 DEBUG :com.backend.model.Transaction [print] TRANSACT [22, 4, 2021] 12345.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:18:07,440 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:18:07,440 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2020 5 
+2021-04-22 18:18:07,440 DEBUG :com.backend.model.MonthlyAmounts [latestMonth] First 2021 4 
+2021-04-22 18:18:07,441 DEBUG :com.backend.model.NetAmount [print] 2021 4 0.0 0.0 
+2021-04-22 18:18:07,441 DEBUG :com.backend.impl.UserImpl [print] -----------------ALL USERS-------------- 
+2021-04-22 18:18:07,441 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:18:07,442 DEBUG :com.backend.model.User [print] madhu123@gmail.com madhu123@gmail.com 8686156086 
+2021-04-22 18:18:07,442 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:18:07,442 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:18:07,442 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:18:07,443 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:18:07,443 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:18:07,443 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 5, 2020] 5000.0 HOME SERVICES INCOME CASH Monthly Pay 
+2021-04-22 18:18:07,444 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 6, 2020] 5000.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:18:07,444 DEBUG :com.backend.model.Transaction [print] TRANSACT [22, 4, 2021] 12345.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:18:07,444 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:18:07,445 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:18:07,445 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 18:18:07,445 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:18:07,445 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:18:07,446 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:18:07,446 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:18:07,446 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:18:07,446 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:18:07,446 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:18:07,446 DEBUG :com.backend.model.Transaction [print] TRANSACT [22, 4, 2021] 12345.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:18:07,447 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:18:07,447 DEBUG :com.backend.impl.UserImpl [print] ---------------DONE USERS--------------- 
+2021-04-22 18:18:07,447 DEBUG :com.backend.impl.LoginImpl [print] --------------------LOGINS-------------- 
+2021-04-22 18:18:07,447 DEBUG :com.backend.model.LoginDetails [print] Email : madhu123@gmail.com password : pass 
+2021-04-22 18:18:07,447 DEBUG :com.backend.model.LoginDetails [print] Email : madhu@gmail.com password : pass 
+2021-04-22 18:27:22,415 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 18:27:22,423 DEBUG :com.backend.model.User [<init>] New User Created madhu123@gmail.com 
+2021-04-22 18:27:22,424 DEBUG :com.backend.impl.UserImpl [print] -----------------ALL USERS-------------- 
+2021-04-22 18:27:22,427 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:27:22,428 DEBUG :com.backend.model.User [print] madhu123@gmail.com madhu123@gmail.com 8686156086 
+2021-04-22 18:27:22,428 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:27:22,431 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:27:22,431 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:27:22,432 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:27:22,432 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:27:22,432 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 5, 2020] 5000.0 HOME SERVICES INCOME CASH Monthly Pay 
+2021-04-22 18:27:22,432 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 6, 2020] 5000.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:27:22,432 DEBUG :com.backend.model.Transaction [print] TRANSACT [22, 4, 2021] 12345.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:27:22,433 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:27:22,433 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:27:22,433 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 18:27:22,435 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:27:22,436 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:27:22,436 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:27:22,436 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:27:22,437 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:27:22,437 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:27:22,437 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:27:22,437 DEBUG :com.backend.model.Transaction [print] TRANSACT [22, 4, 2021] 12345.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:27:22,438 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:27:22,438 DEBUG :com.backend.impl.UserImpl [print] ---------------DONE USERS--------------- 
+2021-04-22 18:27:22,439 DEBUG :com.backend.impl.LoginImpl [print] --------------------LOGINS-------------- 
+2021-04-22 18:27:22,439 DEBUG :com.backend.model.LoginDetails [print] Email : madhu123@gmail.com password : pass 
+2021-04-22 18:27:22,439 DEBUG :com.backend.model.LoginDetails [print] Email : madhu@gmail.com password : pass 
+2021-04-22 18:28:02,434 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 18:28:02,443 DEBUG :com.backend.model.User [<init>] New User Created madhu123@gmail.com 
+2021-04-22 18:28:02,444 DEBUG :com.backend.impl.UserImpl [print] -----------------ALL USERS-------------- 
+2021-04-22 18:28:02,447 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:28:02,448 DEBUG :com.backend.model.User [print] madhu123@gmail.com Madhu Lakkoju 8686156086 
+2021-04-22 18:28:02,448 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:28:02,451 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:28:02,451 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:28:02,451 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:28:02,452 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:28:02,452 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 5, 2020] 5000.0 HOME SERVICES INCOME CASH Monthly Pay 
+2021-04-22 18:28:02,452 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 6, 2020] 5000.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:28:02,452 DEBUG :com.backend.model.Transaction [print] TRANSACT [22, 4, 2021] 12345.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:28:02,453 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:28:02,453 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:28:02,453 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 18:28:02,455 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:28:02,456 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:28:02,456 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:28:02,456 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:28:02,457 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:28:02,457 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:28:02,457 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:28:02,458 DEBUG :com.backend.model.Transaction [print] TRANSACT [22, 4, 2021] 12345.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:28:02,458 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:28:02,458 DEBUG :com.backend.impl.UserImpl [print] ---------------DONE USERS--------------- 
+2021-04-22 18:28:02,458 DEBUG :com.backend.impl.LoginImpl [print] --------------------LOGINS-------------- 
+2021-04-22 18:28:02,458 DEBUG :com.backend.model.LoginDetails [print] Email : madhu123@gmail.com password : pass 
+2021-04-22 18:28:02,459 DEBUG :com.backend.model.LoginDetails [print] Email : madhu@gmail.com password : pass 
+2021-04-22 18:30:27,588 DEBUG :com.backend.model.User [<init>] New User Created madhu@gmail.com 
+2021-04-22 18:30:27,597 DEBUG :com.backend.model.User [<init>] New User Created madhu123@gmail.com 
+2021-04-22 18:30:27,597 DEBUG :com.backend.impl.UserImpl [print] -----------------ALL USERS-------------- 
+2021-04-22 18:30:27,601 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:30:27,601 DEBUG :com.backend.model.User [print] madhu123@gmail.com Madhu Lakkoju 8686156086 
+2021-04-22 18:30:27,602 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:30:27,605 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:30:27,605 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:30:27,605 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:30:27,606 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:30:27,606 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 5, 2020] 5000.0 HOME SERVICES INCOME CASH Help 
+2021-04-22 18:30:27,606 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 6, 2020] 5000.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:30:27,606 DEBUG :com.backend.model.Transaction [print] TRANSACT [22, 4, 2021] 12345.0 BAB JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:30:27,607 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:30:27,607 DEBUG :com.backend.model.User [print] --------------------USER--------------- 
+2021-04-22 18:30:27,607 DEBUG :com.backend.model.User [print] madhu@gmail.com madhu@gmail.com 8686156086 
+2021-04-22 18:30:27,609 DEBUG :com.backend.model.MonthlyAmounts [print] ---------------MONTHLY NET AMOUNTS---------------- 
+2021-04-22 18:30:27,610 DEBUG :com.backend.model.NetAmount [print] 2021 4 12345.0 0.0 
+2021-04-22 18:30:27,610 DEBUG :com.backend.model.NetAmount [print] 2020 6 5000.0 500.0 
+2021-04-22 18:30:27,610 DEBUG :com.backend.model.NetAmount [print] 2020 5 5000.0 500.0 
+2021-04-22 18:30:27,610 DEBUG :com.backend.model.MonthlyAmounts [print] MONTHLY NET DONE 
+2021-04-22 18:30:27,610 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 5, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:30:27,611 DEBUG :com.backend.model.Transaction [print] TRANSACT [12, 6, 2020] 5000.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:30:27,611 DEBUG :com.backend.model.Transaction [print] TRANSACT [22, 4, 2021] 12345.0 TCS JOB INCOME NET_BANKING Monthly Pay 
+2021-04-22 18:30:27,611 DEBUG :com.backend.model.User [print] ------------------------DONE USER------------- 
+2021-04-22 18:30:27,611 DEBUG :com.backend.impl.UserImpl [print] ---------------DONE USERS--------------- 
+2021-04-22 18:30:27,611 DEBUG :com.backend.impl.LoginImpl [print] --------------------LOGINS-------------- 
+2021-04-22 18:30:27,611 DEBUG :com.backend.model.LoginDetails [print] Email : madhu123@gmail.com password : pass 
+2021-04-22 18:30:27,612 DEBUG :com.backend.model.LoginDetails [print] Email : madhu@gmail.com password : pass 

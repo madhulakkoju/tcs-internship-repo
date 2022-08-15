@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+
+<meta charset="ISO-8859-1">
+<title>add Student</title>
+</head>
+<body>
+
+<h3 align="center">Add New Student</h3>
+<h4>app/students/</h4>
+<div ng-app="studentAdd" ng-controller="studentAddController" ng-init="">
+<div>
+Student Id : <input type="text" ng-model="studentId">
+<br>
+Student Name :<input type="text" ng-model="studentName">
+<br>
+Student Mobile :<input type="text" ng-model="studentMobile">
+<br><br>
+<input type="submit"  ng-click="sendStudentData(studentId,studentName,studentMobile)">
+<br><br>
+</div>
+<table border="width:300px" style="text-align:center">
+<th><td>Student Data</td></th>
+<tr><td>{{student}}</td></tr>
+<tr><td>Student Name </td><td> {{student['first_name']}}</td></tr>
+<tr><td>Student ID </td><td> {{student['id']}}</td></tr>
+<tr><td>Student Mobile </td><td> {{student['mobile']}}</td></tr>
+<tr><td>Message</td><td> {{messageCallback}}</td></tr>
+</table>
+
+</div>
+
+<script>
+// POST Student DATA to Server Database 
+var baseUrl = "http://localhost:8080/RestHibernate-Project/app/students/";
+var app = angular.module("studentAdd",[]);
+app.controller("studentAddController", function($scope,$http){
+	$scope.student = null;
+	$scope.studentId = null;
+	$scope.studentName= null;
+	$scope.studentMobile = null;
+	$scope.messageCallback = null;
+	
+	$scope.sendStudentData = function(studentId,studentName,studentMobile){
+		
+		var studentObject = {
+				"first_name":studentName,
+				"id": studentId,
+				"mobile":studentMobile
+		};
+		
+		$http.post(baseUrl,JSON.stringify(studentObject)).then(
+		function(response){
+			$scope.student = response.data;
+			//if($scope.student["Student Name"] == studentObject["Student Name"] && $scope.student["Student ID"] == studentObject["Student ID"] && $scope.student["Student Mobile"] == studentObject["Student Mobile"])                  
+			$scope.messageCallback = "Student Added Successfully"; 
+		},
+		function(response){
+			$scope.student = null;
+			$scope.messageCallback = "Student Not Added / ERROR";
+		});
+	}
+});
+</script>
+
+
+
+</p>
+</body>
+</html>

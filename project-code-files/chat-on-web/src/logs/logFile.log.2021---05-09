@@ -1,0 +1,18 @@
+2021-05-09 12:17:20,013 DEBUG :org.jboss.resteasy.plugins.providers.FileProvider [<clinit>] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2021-05-09 12:17:20,070 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-05-09 12:17:20,077 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-05-09 12:17:33,765 DEBUG :org.jboss.resteasy.plugins.providers.FileProvider [<clinit>] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2021-05-09 12:17:33,810 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-05-09 12:17:33,817 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-05-09 12:18:38,337 DEBUG :org.jboss.resteasy.plugins.providers.FileProvider [<clinit>] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2021-05-09 12:18:38,385 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-05-09 12:18:38,391 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-05-09 12:18:40,990 DEBUG :org.jboss.resteasy.plugins.providers.FileProvider [<clinit>] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2021-05-09 12:18:41,035 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-05-09 12:18:41,041 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-05-09 12:24:22,911 DEBUG :org.jboss.resteasy.plugins.providers.FileProvider [<clinit>] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2021-05-09 12:24:22,959 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-05-09 12:24:22,965 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-05-09 12:24:25,667 DEBUG :org.jboss.resteasy.plugins.providers.FileProvider [<clinit>] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+2021-05-09 12:24:25,713 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
+2021-05-09 12:24:25,719 DEBUG :org.jboss.resteasy.plugins.providers.DocumentProvider [<init>] Provider : org.jboss.resteasy.plugins.providers.DocumentProvider,  Method : DocumentProvider 
